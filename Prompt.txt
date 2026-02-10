@@ -2,4 +2,8 @@ Nama : Indah Triyuni Siahaan
 NIM : 12S24052
 
 1. Buatkan saya kode java dari soal ini, dengan melanjutkan code ini 
-2. 
+2. Jelaskan konsep dan cara penyelesaian setiap soal secara singkat dan jelas.
+3. Berikan kode program Java yang benar dan sesuai dengan soal.
+4. Tampilkan contoh hasil keluaran (output) dari program.
+5. Jelaskan cara meng-compile dan menjalankan program Java.
+6. Lanjutkan dan lengkapi kode Java yang sudah diberikan hingga semua soal selesai.
